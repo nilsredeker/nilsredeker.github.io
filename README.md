@@ -1,114 +1,32 @@
-# White Paper
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+=========================
 
-**White Paper** is a theme for Jekyll. It is built keeping content in focus and is best for writers/developers who also like to share code with their essays.
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-## Note: Dark Paper out now
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2014
+client: The Client
+category: Web Development
+description: The description of the project
 
-> Inspired by MacOS dark mode, a new dark theme is out now. Check out [Dark Paper github](https://github.com/vinitkumar/dark-paper) and it's live demo here: [dark paper website](https://vinitkumar.me/dark-paper)
-
-# White Paper in Action
-
-### Home page
-
-![home](https://cldup.com/nAr0lOBTTJ.png)
-
-### Post Detail View
-
-![post detail](https://cldup.com/kP54KLISpn-3000x3000.png)
-
-## How to use White Paper
-
-Fork the repo to your account by clicking the button on the top right as shown in the image:
-
-![fork](https://cldup.com/vOF0oaUkh5-3000x3000.png) and then where you want to fork it as shown below.
-
-Next, Go the the project settings and change the repository name to `<username>.github.io` where username is your username.
-
-Change these entries in the `_config.yml` file:
-
-Also, change this line in head.html [link](https://github.com/vinitkumar/white-paper/blob/9ad021a8f94c6240351bd57eda301b5f207e554e/_includes/head.html#L28)
-
-```html
-<!-- From this -->
-<link rel="stylesheet" href=" {{ '/css/main.min.css' | relative_url }}" type="text/css" />
-<!-- To this -->
-<link rel="stylesheet" href=" {{ '/css/main.min.css' | absolute_url }}" type="text/css" />
-
+---
 ```
 
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
-This will make sure that the path of CSS is correct and the theme loads correctly.
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
-```yml
-master_repo: false
-url: "<username>.github.io"
-rtl: false  # change to true if posts is in Arabic/other Right to left language.
-```
-Also, change all other fields in the `_config.yml` file to your choice.
-
-## Installation
-
-### Local Development
-
-This theme requires you to install couple of tools first to setup jekyll locally.
-
-```$
-git clone git@github.com:vinitkumar/white-paper.git
-
-# If you have ruby installed.
-gem install jekyll bundler
-
-# If you have node installed.
-npm install
-sudo npm install -g grunt-cli  #to get the task runner for grunt.
-bundle install
-jekyll serve
-
-# on running the serve script, the site will be live on
-http://127.0.0.1:4000
-```
-This theme uses grunt to concat & minify the css for best performance. In order to prepare the css build. Run `grunt`
-It will create a main.min.css file in the css folder.
-
-### Switch Syntax Highlighting.
-
-This theme also provides syntax highlighting in different theme. Inside css folder, there is a syntax folder.
-
-```$
-.
-├── emacs.css
-├── github.css
-├── monokai.css
-├── native.css
-├── syntax.css
-└── vim.css
-
-```
-
-Now in the gruntfiles.js
-
-```js
-concat: {
-  dist: {
-    src: [
-      'css/base.css',
-      'css/sytax/emacs.css', // change this to another theme if you prefer, like vim.css and run grunt
-      'css/octicons.css'
-    ],
-    dest: 'css/<%= pkg.name %>.add.css'
-  }
-}
-```
-
-## License
-* see [LICENSE](https://github.com/vinitkumar/white-paper/blob/gh-pages/LICENSE) file
-
-## Version
-* Version 4.0.0
-
-## Contact
-#### Developer
-
-* Homepage: http://vinitkumar.me
-* e-mail: vinit1414.08@bitmesra.ac.in
-* Twitter: [@vinitkme](https://twitter.com/vinitkme "vinitkme on twitter")
+---------
+For more details, read the [documentation](http://jekyllrb.com/)
