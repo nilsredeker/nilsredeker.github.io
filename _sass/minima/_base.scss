@@ -28,7 +28,13 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
+.mbtablestyle {
+        border-collapse: collapse;
 
+   > table, td, th {
+        border: 1px solid white;
+        }
+}
 
 
 /**
