@@ -42,6 +42,9 @@ minima:
 # Build settings
 theme: minima
 
+# Google Analytics
+google_analytics: UA—134366313-1
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
