@@ -9,6 +9,11 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+  
+# Google Analytics
+google_analytics: UA-134366313-1
+
+
 
   # generate social links in footer
   social_links:
