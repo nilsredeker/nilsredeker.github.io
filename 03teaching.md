@@ -12,7 +12,7 @@ I have taught a variety of courses related to international relations, political
 
 * Spring 2019: **The Politics of Inequality in Advanced Economies**, Bachelor Seminar
 
-	* Download Syllabus
+	* [Download Syllabus]({{ site.url }}/assets/FS19_Ungleichheit_Syllabus.pdf)
 
 
 &nbsp;
