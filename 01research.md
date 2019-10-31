@@ -19,28 +19,31 @@ The fall of labor's share of GDP in many advanced economies is increasingly gain
 
 <br>
 
-**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter)  [ [ PDF ]]({{ site.url }}/assets/RedekerWalter_Germany.pdf)
+**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter)  [ [ PDF ]]({{ site.url }}/assets/RedekerWalter_Germany.pdf) (R&R)
 
 Germany’s large current account surplus has been widely criticized, especially against the backdrop of the role of macroeconomic imbalances in the Eurozone crisis. We argue that Germany’s resistance to reduce its massive current account surplus through an expansionary policy at home is rooted in distributive struggles about the design of possible adjustment policies. To explore this argument, we leverage original survey data from 135 German economic interest groups, qualitative interviews with interest group representatives and policymakers, and data from public opinion surveys. We show that while there is general support for internal adjustment among German interest groups, they disagree heavily about which speciﬁc policies should be implemented to achieve this goal. Together with a broad public and elite-based consensus to avoid a break-up of the Eurozone, this polarization turns ﬁnancing into a politically attractive strategy. Rather than being rooted only in German ordoliberal ideas or Germany’s export-oriented structure, distributive conﬂicts contribute signiﬁcantly to Germany’s resistance to reduce its large current-account surplus. Because similar dynamics can be observed in other surplus countries, we argue that distributive struggles within surplus countries played an important role interstate conflicts about the management of the crisis.
 
 <br>
 
-**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Chapters 6 & 7 in a joint Book Projekt with Stefanie Walter, Ari Ray and Raphael Reinke) (under review) [ [ PDF ]]({{ site.url }}/assets/Redeker_BadOptions.pdf)
+**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Chapters 6 & 7 in a joint Book Manuscript with Stefanie Walter, Ari Ray and Raphael Reinke) (forthcoming Oxford University Press [ [ PDF ]]({{ site.url }}/assets/Redeker_BadOptions.pdf)
 
 
 The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
 Our book sets out to explain the unusual European crisis experience by examining how the structural characteristics of a diverse set of Eurozone economies have affected the interests of important societal and political actors, and how these interests, in turn, have shaped Eurozone crisis management.
 
 <br>
+
 **Misremembering Weimar - Hyperinflation, the Great Depression, and German Collective Economic Memory** (with Lukas Haffert & Tobias Rommel) [ [ PDF ]]({{ site.url }}/assets/2019-10-31_hrr_misrememberingweimar.pdf)
 
 The economic worldview of German elites and the German public is often described as being shaped by the trauma of Weimar era hyperinflation. This raises the question why this hyperinflation episode plays such an outsized role in the German economic imagination. We argue that this is because many Germans do not distinguish between hyperinflation and the Great Depression but see them as two dimensions of the same crisis. They conceive of Weimar economic history as being characterized by one big crisis, encompassing both rapidly rising prices and mass unemployment. Using original survey data, we demonstrate that about half of all Germans think of the Great Depression as a period of high inflation, whereas less than 5% know that it was in fact a period of deflation. More educated and politically interested Germans are more likely to commit this fallacy. This confusion is unique to Germany, as a comparison with a Dutch survey shows.
+
 <br>
 
 <font size="+1">
 <span style="color:#2a7ae2"> Ongoing Work  </span> </font> <br>
 
 The Political Effects of Local Economic Investment Policies: Evidence from a Natural Experiment (with Daniel Bischof, Guido Ropers & Moritz Marbach).
++ [Abstract]  
 
 Varieties of Corporate Finance - New Investors and Firm Behaviour (with Benjamin Braun  & Sebastian Kohl)
 + [Abstract]  
