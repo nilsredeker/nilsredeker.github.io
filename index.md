@@ -8,7 +8,7 @@
 layout: home
 ---
 <img src="assets/nils2.jpg" alt="Kitten"
-	title="" width="32%" height="32%"  
+	title="" width="35%" height="35%"  
 	style="float: left; padding-right: 50px;"/>
 
 
