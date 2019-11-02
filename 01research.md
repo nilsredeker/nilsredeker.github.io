@@ -11,6 +11,8 @@ order: 1
 
 This paper investigates the political roots of the global rise of corporate savings. In recent years, firms throughout advanced economies have started to accumulate enormous savings. Instead of using their revenues to reinvest or raise wages, many firms now stash their profits on financial markets, contributing to sluggish growth, financial fragilities and rising inequality. I argue that political institutions that determine the balance-of-power between firms and employees play an important role in shaping this trend. The stronger unions are, the more they pressure firms into using revenues for wage raises and investment. The more their influence erodes, the stronger the rise of savings.  Using panel data from 25 OECD countries as well as a regression discontinuity design leveraging the German law on co-determination, I find robust and causal evidence supporting this claim. These results have implications for our broader understanding about how political institutions affect financial imbalances and economic inequality.
 
++ Media coverage:  [Washington Post](https://www.washingtonpost.com/opinions/2019/05/31/what-marco-rubio-gets-right-wrong-about-decline-american-investment/): [Frankfurter Rundschau](https://www.fr.de/politik/konjunktur-aktionaere-profitieren-arbeitnehmer-verlieren-12233915.html) 
+
 <br>
 
 **We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter)  [ [ PDF ]]({{ site.url }}/assets/RedekerWalter_Germany.pdf) (R&R)
