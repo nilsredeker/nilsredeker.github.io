@@ -11,7 +11,7 @@ order: 1
 
 This paper investigates the political roots of the global rise of corporate savings. In recent years, firms throughout advanced economies have started to accumulate enormous savings. Instead of using their revenues to reinvest or raise wages, many firms now stash their profits on financial markets, contributing to sluggish growth, financial fragilities and rising inequality. I argue that political institutions that determine the balance-of-power between firms and employees play an important role in shaping this trend. The stronger unions are, the more they pressure firms into using revenues for wage raises and investment. The more their influence erodes, the stronger the rise of savings.  Using panel data from 25 OECD countries as well as a regression discontinuity design leveraging the German law on co-determination, I find robust and causal evidence supporting this claim. These results have implications for our broader understanding about how political institutions affect financial imbalances and economic inequality.
 
-+ Media coverage:  [Washington Post](https://www.washingtonpost.com/opinions/2019/05/31/what-marco-rubio-gets-right-wrong-about-decline-american-investment/): [Frankfurter Rundschau](https://www.fr.de/politik/konjunktur-aktionaere-profitieren-arbeitnehmer-verlieren-12233915.html) 
++ Media coverage:  [Washington Post](https://www.washingtonpost.com/opinions/2019/05/31/what-marco-rubio-gets-right-wrong-about-decline-american-investment/); [Frankfurter Rundschau](https://www.fr.de/politik/konjunktur-aktionaere-profitieren-arbeitnehmer-verlieren-12233915.html) 
 
 <br>
 
@@ -40,6 +40,8 @@ The fall of labor's share of GDP in many advanced economies is increasingly gain
 
 The economic worldview of German elites and the German public is often described as being shaped by the trauma of Weimar era hyperinflation. This raises the question why this hyperinflation episode plays such an outsized role in the German economic imagination. We argue that this is because many Germans do not distinguish between hyperinflation and the Great Depression but see them as two dimensions of the same crisis. They conceive of Weimar economic history as being characterized by one big crisis, encompassing both rapidly rising prices and mass unemployment. Using original survey data, we demonstrate that about half of all Germans think of the Great Depression as a period of high inflation, whereas less than 5% know that it was in fact a period of deflation. More educated and politically interested Germans are more likely to commit this fallacy. This confusion is unique to Germany, as a comparison with a Dutch survey shows.
 
++ Policy Paper: [Jacques Delors Institute Berlin](https://www.delorsinstitut.de/2015/wp-content/uploads/2019/10/20191101_Inflation_Redeker.pdf)
++ Media coverage:  [Die Zeit](https://www.zeit.de/wirtschaft/2019-10/konjunktur-geschichte-inflation-ezb-angst#comments); [Bloomberg](https://bloom.bg/329ZYcQ) 
 <br>
 
 <font size="+1">
