@@ -36,7 +36,7 @@ The fall of labor's share of GDP in many advanced economies is increasingly gain
 <br>
 
 
-**Misremembering Weimar - Hyperinflation, the Great Depression, and German Collective Economic Memory** (with Lukas Haffert & Tobias Rommel) [ [ PDF ]]({{ site.url }}/assets/2HRR_MisrememberingWeimar.pdf)
+**Misremembering Weimar - Hyperinflation, the Great Depression, and German Collective Economic Memory** (with Lukas Haffert & Tobias Rommel) [ [ PDF ]]({{ site.url }}/assets/HRR_MisrememberingWeimar.pdf)
 
 The economic worldview of German elites and the German public is often described as being shaped by the trauma of Weimar era hyperinflation. This raises the question why this hyperinflation episode plays such an outsized role in the German economic imagination. We argue that this is because many Germans do not distinguish between hyperinflation and the Great Depression but see them as two dimensions of the same crisis. They conceive of Weimar economic history as being characterized by one big crisis, encompassing both rapidly rising prices and mass unemployment. Using original survey data, we demonstrate that about half of all Germans think of the Great Depression as a period of high inflation, whereas less than 5% know that it was in fact a period of deflation. More educated and politically interested Germans are more likely to commit this fallacy. This confusion is unique to Germany, as a comparison with a Dutch survey shows.
 
