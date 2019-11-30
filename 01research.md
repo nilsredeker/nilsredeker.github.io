@@ -15,13 +15,13 @@ This paper investigates the political roots of the global rise of corporate savi
 
 <br>
 
-**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter)  [ [ PDF ]]({{ site.url }}/assets/RedekerWalter_Germany_v2.pdf) (conditionally accepted for publication at Review of International Organizations)
+**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter)  [ [ PDF ]]({{ site.url }}/assets/RedekerWalter_Germany_v2.pdf) (conditionally accepted at Review of International Organizations)
 
 Germany’s large current account surplus has been widely criticized, especially against the backdrop of the role of macroeconomic imbalances in the Eurozone crisis. We argue that Germany’s resistance to reduce its massive current account surplus through an expansionary policy at home is rooted in distributive struggles about the design of possible adjustment policies. To explore this argument, we leverage original survey data from 135 German economic interest groups, qualitative interviews with interest group representatives and policymakers, and data from public opinion surveys. We show that while there is general support for internal adjustment among German interest groups, they disagree heavily about which specific policies should be implemented to achieve this goal. Together with a broad public and elite-based consensus to avoid a break-up of the Eurozone, this polarization turns financing into a politically attractive strategy. Rather than being rooted only in German ordoliberal ideas or Germany’s export-oriented structure, distributive conflicts contribute significantly to Germany’s resistance to reduce its large current-account surplus. Because similar dynamics can be observed in other surplus countries, we argue that distributive struggles within surplus countries played an important role interstate conflicts about the management of the crisis.
 
 <br>
 
-**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Chapters 6 & 7 in a joint Book Manuscript with Stefanie Walter, Ari Ray and Raphael Reinke) (forthcoming Oxford University Press [ [ INTRODUCTION ]]({{ site.url }}/assets/WalterRayRedeker.PoliticsofBadOptions.ch1_Intro.pdf)
+**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Chapters 6 & 7 in a joint Book Manuscript with Stefanie Walter, Ari Ray and Raphael Reinke) (forthcoming Oxford University Press [ [ PDF ]]({{ site.url }}/assets/WalterRayRedeker.PoliticsofBadOptions.ch1_Intro.pdf)
 
 
 The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
@@ -36,7 +36,7 @@ The fall of labor's share of GDP in many advanced economies is increasingly gain
 <br>
 
 
-**Misremembering Weimar - Hyperinflation, the Great Depression, and German Collective Economic Memory** (with Lukas Haffert & Tobias Rommel) [ [ PDF ]]({{ site.url }}/assets/2019-10-31_hrr_misrememberingweimar.pdf)
+**Misremembering Weimar - Hyperinflation, the Great Depression, and German Collective Economic Memory** (with Lukas Haffert & Tobias Rommel) [ [ PDF ]]({{ site.url }}/assets/2HRR_MisrememberingWeimar.pdf)
 
 The economic worldview of German elites and the German public is often described as being shaped by the trauma of Weimar era hyperinflation. This raises the question why this hyperinflation episode plays such an outsized role in the German economic imagination. We argue that this is because many Germans do not distinguish between hyperinflation and the Great Depression but see them as two dimensions of the same crisis. They conceive of Weimar economic history as being characterized by one big crisis, encompassing both rapidly rising prices and mass unemployment. Using original survey data, we demonstrate that about half of all Germans think of the Great Depression as a period of high inflation, whereas less than 5% know that it was in fact a period of deflation. More educated and politically interested Germans are more likely to commit this fallacy. This confusion is unique to Germany, as a comparison with a Dutch survey shows.
 
