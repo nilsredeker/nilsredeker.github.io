@@ -21,7 +21,7 @@ Germany’s large current account surplus has been widely criticized, especially
 
 <br>
 
-**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Chapters 6 & 7 in a joint Book Manuscript with Stefanie Walter, Ari Ray and Raphael Reinke) (forthcoming Oxford University Press [ [ PDF ]]({{ site.url }}/assets/WalterRayRedeker.PoliticsofBadOptions.ch1_Intro.pdf)
+**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (forthcoming Oxford University Press [ [ PDF ]]({{ site.url }}/assets/WalterRayRedeker.PoliticsofBadOptions.ch1_Intro.pdf)
 
 
 The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
