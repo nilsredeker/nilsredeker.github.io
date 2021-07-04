@@ -9,7 +9,7 @@ order: 1
 
 <br>
 
-<img src="assets/oup.jpeg" alt="Kitten"
+<img src="http://www.nilsredeker.com/assets/oup.jpeg" alt="Kitten"
 	title="" width="40%" height="40%"  
 	style="float: left; padding-right: 50px;"/>
 
