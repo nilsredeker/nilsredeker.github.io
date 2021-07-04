@@ -8,7 +8,7 @@ order: 1
 <span style="color:#2a7ae2"> Publications  </span> </font>
 
 <br>
-<img src="assets/oup.jpeg" alt="Test"
+<img src="assets/oup.jpeg" alt="Test2"
 	title="" width="40%" height="40%"  
 	style="float: left; padding-right: 50px;"/>
 
