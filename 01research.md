@@ -5,7 +5,7 @@ permalink: /research/
 order: 1
 ---
 <font size="+1">
-<span style="color:#2a7ae2"> Publications  </span> </font> <br>
+<span style="color:#2a7ae2"> Publications  </span> </font>
 
 <br>
 <img src="assets/Nils_WP.png" alt="Kitten"
