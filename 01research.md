@@ -5,7 +5,18 @@ permalink: /research/
 order: 1
 ---
 <font size="+1">
-<span style="color:#2a7ae2"> Working Papers  </span> </font> <br>
+<span style="color:#2a7ae2"> Publications  </span> </font> <br>
+
+<br>
+
+**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Oxford University Press, 2020) [[ Link ]](https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857013?cc=de&lang=en&)
+
+
+The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
+Our book sets out to explain the unusual European crisis experience by examining how the structural characteristics of a diverse set of Eurozone economies have affected the interests of important societal and political actors, and how these interests, in turn, have shaped Eurozone crisis management.
+
+<br>
+
 
 **The Politics of Stashing Wealth - The Demise of Labor Power and the Global Rise of Corporate Saving**  (under review) [ [ PDF ]]({{ site.url }}/assets/Redeker_Savings_Glut.pdf)
 
@@ -19,15 +30,6 @@ This paper investigates the political roots of the global rise of corporate savi
 
 Germany’s large current account surplus has been widely criticized, especially against the backdrop of the role of macroeconomic imbalances in the Eurozone crisis. We argue that Germany’s resistance to reduce its massive current account surplus through an expansionary policy at home is rooted in distributive struggles about the design of possible adjustment policies. To explore this argument, we leverage original survey data from 135 German economic interest groups, qualitative interviews with interest group representatives and policymakers, and data from public opinion surveys. We show that while there is general support for internal adjustment among German interest groups, they disagree heavily about which specific policies should be implemented to achieve this goal. Together with a broad public and elite-based consensus to avoid a break-up of the Eurozone, this polarization turns financing into a politically attractive strategy. Rather than being rooted only in German ordoliberal ideas or Germany’s export-oriented structure, distributive conflicts contribute significantly to Germany’s resistance to reduce its large current-account surplus. Because similar dynamics can be observed in other surplus countries, we argue that distributive struggles within surplus countries played an important role interstate conflicts about the management of the crisis.
 
-<br>
-
-**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (forthcoming Oxford University Press [ [ PDF ]]({{ site.url }}/assets/WalterRayRedeker.PoliticsofBadOptions.ch1_Intro.pdf)
-
-
-The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
-Our book sets out to explain the unusual European crisis experience by examining how the structural characteristics of a diverse set of Eurozone economies have affected the interests of important societal and political actors, and how these interests, in turn, have shaped Eurozone crisis management.
-
-<br>
 
 **Trade, Labor Market Institutions and the Decline of Labor Shares**  [ [ PDF ]]({{ site.url }}/assets/Redeker_WaivingWages.pdf)
 
