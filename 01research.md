@@ -9,7 +9,7 @@ order: 1
 
 <br>
 
-**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (Oxford University Press, 2020) [[ Link ]](https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857013?cc=de&lang=en&)
+**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (with Stefanie Walter and Ari Ray, *Oxford University Press*, 2020) [[ Link ]](https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857013?cc=de&lang=en&)
 
 
 The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
