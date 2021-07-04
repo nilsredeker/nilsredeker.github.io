@@ -13,7 +13,7 @@ layout: home
 
 
 ### Welcome!
-I am a Policy Fellow working on European Economic Policy at the [Jacques Delors Institute Berlin](www.delorsinstitut.de). 
+I am a Policy Fellow working on European economic policy at the [Jacques Delors Centre Berlin](www.delorsinstitut.de). 
 
 Previously, I did my PhD at the chair for International Relations and Political Economy at the [University of Zurich](www.ipz.uzh.ch) and spent time as a visiting fellow at [Weatherhead Center for Internationa Affairs](https://wcfia.harvard.edu) at Harvard University. I hold degrees in International Political Economy from the [London School of Economics](http://www.lse.ac.uk) and in Political Science and Economics from the [Free University of Berlin](https://www.polsoz.fu-berlin.de/en/polwiss/index.html).
 
