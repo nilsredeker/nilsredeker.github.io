@@ -5,12 +5,11 @@ permalink: /research/
 order: 1
 ---
 <font size="+1">
-<span style="color:#2a7ae2"> Publications  </span> </font> <br>
+<span style="color:#2a7ae2"> Publications  </span> </font> 
 
 <br>
-![image](assets/9780198857013.jpg){: style="float: left"}
 
-<img src="assets/9780198857013.jpg" alt="Test4"
+<img src="assets/Nils_WP.png" alt="Test5"
 	style="float: left; padding-right: 50px;"/>
 
 **The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (with Stefanie Walter and Ari Ray, *Oxford University Press*, 2020) [[ Link ]](https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857013?cc=de&lang=en&)
