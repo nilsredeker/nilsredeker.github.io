@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="assets/nils2.jpg" alt="Kitten"
+<img src="assets/twitter2.jpeg" alt="Kitten"
 	title="" width="40%" height="40%"  
 	style="float: left; padding-right: 50px;"/>
 
