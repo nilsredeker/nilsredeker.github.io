@@ -42,7 +42,7 @@ The economic worldview of German elites and the German public is often described
 + Media coverage:  [Die Zeit](https://www.zeit.de/wirtschaft/2019-10/konjunktur-geschichte-inflation-ezb-angst#comments); [Bloomberg](https://bloom.bg/329ZYcQ) 
 <br>
 
-**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter, *Review of International Organizations*, 15:573–599, 2020)  [ [ Ungated PDF ]](https://link.springer.com/article/10.1007/s11558-020-09390-1) (conditionally accepted at Review of International Organizations)
+**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter, *Review of International Organizations*, 15:573–599, 2020)  [ [ Ungated PDF ]](https://link.springer.com/article/10.1007/s11558-020-09390-1)
 
 Germany’s large current account surplus has been widely criticized, especially against the backdrop of the role of macroeconomic imbalances in the Eurozone crisis. We argue that Germany’s resistance to reduce its massive current account surplus through an expansionary policy at home is rooted in distributive struggles about the design of possible adjustment policies. To explore this argument, we leverage original survey data from 135 German economic interest groups, qualitative interviews with interest group representatives and policymakers, and data from public opinion surveys. We show that while there is general support for internal adjustment among German interest groups, they disagree heavily about which specific policies should be implemented to achieve this goal. Together with a broad public and elite-based consensus to avoid a break-up of the Eurozone, this polarization turns financing into a politically attractive strategy. Rather than being rooted only in German ordoliberal ideas or Germany’s export-oriented structure, distributive conflicts contribute significantly to Germany’s resistance to reduce its large current-account surplus. Because similar dynamics can be observed in other surplus countries, we argue that distributive struggles within surplus countries played an important role interstate conflicts about the management of the crisis.
 
@@ -55,13 +55,11 @@ Germany’s large current account surplus has been widely criticized, especially
 
 **Trade, Labor Market Institutions and the Decline of Labor Shares**  [ [ PDF ]]({{ site.url }}/assets/Redeker_WaivingWages.pdf)
 
-The fall of labor's share of GDP in many advanced economies is increasingly gaining attention as a key driver of economic inequality and macroeconomic imbalances. While there is a growing literature on the causes of this trend, we still know little about what drives variation in wage share developments across countries. I argue that domestic institutions play an important role. The more coordinated labor market institutions are, the larger the incentives and capabilities of employees to respond to mounting price pressure by curbing their wage demands. As a result, globalization leads to a more rapid decline of labor shares in coordinated market economies than in liberal market economies. I find robust evidence in line with this argument using microlevel data on publicly listed firms in the European Union and exploiting exogenous variation in trade liberalization. These findings have important implications for our understanding of the political economy of falling labor shares as well as the way in which domestic institutions mitigate globalization pressures. 
+​​​​**Helping the Left Behind? Place-Based Policies and Regional Inequality** (with Valentin Lang and Daniel Bischof )
++ work in progress, ​draft available on request​
 
-The Political Effects of Local Economic Investment Policies: Evidence from a Natural Experiment (with Daniel Bischof, Guido Ropers & Moritz Marbach).
-+ [Abstract]  
-
-Varieties of Corporate Finance - New Investors and Firm Behaviour (with Benjamin Braun  & Sebastian Kohl)
-+ [Abstract]  
+**The Political Effects of Local Economic Investment Policies: Evidence from a Natural Experiment** (with Daniel Bischof, Guido Ropers & Moritz Marbach).
++ work in progress, ​draft available on request​
 
 
 [jekyll-organization]: https://github.com/jekyll
