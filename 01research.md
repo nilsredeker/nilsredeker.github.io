@@ -15,6 +15,8 @@ order: 1
 The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
 Our book sets out to explain the unusual European crisis experience by examining how the structural characteristics of a diverse set of Eurozone economies have affected the interests of important societal and political actors, and how these interests, in turn, have shaped Eurozone crisis management.
 
++ Awards:  Amercian Political Science Associations, European Politics and Society Section, [Honorable Mention for the Best Book Prize in 2021](https://connect.apsanet.org/s21/awards/)
+
 <br>
 
 
