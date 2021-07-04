@@ -7,7 +7,7 @@ order: 4
 
 Nils Redeker <br>
 Jacques Delors Centre, Hertie School <br>
-Friedrichstraße 194, Berlin <br>
+Friedrichstrasse 194, Berlin <br>
 
 
 &nbsp;
