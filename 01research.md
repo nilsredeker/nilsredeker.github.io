@@ -20,6 +20,7 @@ order: 1
 The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
 Our book sets out to explain the unusual European crisis experience by examining how the structural characteristics of a diverse set of Eurozone economies have affected the interests of important societal and political actors, and how these interests, in turn, have shaped Eurozone crisis management.
 
++ [Data and replication material](https://forsbase.unil.ch/project/study-public-overview/17139/0/)
 + Awards:  Amercian Political Science Associations, European Politics and Society Section, [Honorable Mention for the Best Book Prize in 2021](https://connect.apsanet.org/s21/awards/)
 
 <br>
@@ -29,6 +30,7 @@ Our book sets out to explain the unusual European crisis experience by examining
 
 This paper investigates the political roots of the global rise in corporate savings. In recent years, firms throughout advanced economies have started to accumulate enormous savings. Instead of using their revenues to reinvest or raise wages, many companies now stash their profits within financial markets, contributing to sluggish growth, financial fragilities and rising inequality. I argue that political institutions that determine the balance-of-power between firms and employees play an important role in shaping this trend. The stronger unions are, the more they pressure firms into using revenues for pay increases and investment. The more their influence erodes, the stronger the rise of savings.  Using panel data from 25 OECD countries as well as a regression discontinuity design leveraging the German law on co-determination, I find robust and causal evidence supporting this claim. These results have implications for our broader understanding of how political institutions affect financial imbalances and economic inequality.
 
++ [Online Appendix]({{ site.url }}/assets/Redeker_JOP_Appendix.pdf); [Replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F9H3DFP)
 + Media coverage:  [Washington Post](https://www.washingtonpost.com/opinions/2019/05/31/what-marco-rubio-gets-right-wrong-about-decline-american-investment/); [Frankfurter Rundschau](https://www.fr.de/politik/konjunktur-aktionaere-profitieren-arbeitnehmer-verlieren-12233915.html) 
 
 <br>
