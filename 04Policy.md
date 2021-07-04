@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Policy
+permalink: /policy/
 order: 1
 ---
 <font size="+1">
