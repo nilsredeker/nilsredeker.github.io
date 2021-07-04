@@ -5,61 +5,40 @@ permalink: /policy/
 order: 1
 ---
 <font size="+1">
-<span style="color:#2a7ae2"> Publications  </span> </font> 
+<span style="color:#2a7ae2"> Selected Policy Work  </span> </font> 
 
 <br>
 
-<img src="http://www.nilsredeker.com/assets/oup.jpeg" alt="Kittentest
-"
-	title="" width="30%" height="30%"  
-	style="float: left; padding-right: 50px;"/>
+**Go big or go home - How to make European industrial policy work** (*Jacques Delors Centre Policy Paper*, June 2021) [[ Link ]](https://www.delorscentre.eu/en/publications/detail/publication/go-big-or-go-home-how-to-make-european-industrial-policy-work)
 
-**The Politics of Bad Options - Why the Eurozone's Problems are so hard to resolve** (with Stefanie Walter and Ari Ray, *Oxford University Press*, 2020) [[ Link ]](https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857013?cc=de&lang=en&)
-
-
-The Eurozone crisis quickly developed into one of the most serious economic and political crises in the history of the EU. After almost a decade of unsuccessful attempts to resolve the fundamental structural and institutional issues that underlie the Eurozone’s problems, a resolution of the crisis remains elusive. How can we understand the difficulties to resolve the Eurozone crisis? And how can we understand the unusual approach to crisis resolution pursued by European governments? 
-Our book sets out to explain the unusual European crisis experience by examining how the structural characteristics of a diverse set of Eurozone economies have affected the interests of important societal and political actors, and how these interests, in turn, have shaped Eurozone crisis management.
-
-+ [Data and replication material](https://forsbase.unil.ch/project/study-public-overview/17139/0/)
-+ Awards:  Amercian Political Science Associations, European Politics and Society Section, [Honorable Mention for the Best Book Prize in 2021](https://connect.apsanet.org/s21/awards/)
+When it comes to industrial policy, the EU remains big in ambitions but meager in substance. This is not surprising. The EU aims to follow the international trend towards more active industrial policy. But it has to do so within a framework that was designed to discourage – indeed even prevent – the kind of investment-centered policies that seem the most effective. For the EU’s industrial strategy to grow some teeth, three fundamental changes are needed: first, new financial instruments for more common resources; second, a stronger macroeconomic focus on growth and employment; and third, better European governance. 
 
 <br>
 
-**The Politics of Stashing Wealth - The Decline of Labor Power and the Global Rise of Corporate Saving**  (*Journal of Politics*, forthcoming) [ [ Preprint PDF ]]({{ site.url }}/assets/Redeker_JOP_PrePrint.pdf)
+**Taking a closer look: How to improve the design of the Solvency Support Instrument** (with Theresa Kuespert, *Jacques Delors Centre Policy Paper*, July 2020) [[ Link ]](https://www.delorscentre.eu/en/publications/detail/publication/taking-a-closer-look-how-to-improve-the-design-of-the-solvency-support-instrument)
 
-This paper investigates the political roots of the global rise in corporate savings. In recent years, firms throughout advanced economies have started to accumulate enormous savings. Instead of using their revenues to reinvest or raise wages, many companies now stash their profits within financial markets, contributing to sluggish growth, financial fragilities and rising inequality. I argue that political institutions that determine the balance-of-power between firms and employees play an important role in shaping this trend. The stronger unions are, the more they pressure firms into using revenues for pay increases and investment. The more their influence erodes, the stronger the rise of savings.  Using panel data from 25 OECD countries as well as a regression discontinuity design leveraging the German law on co-determination, I find robust and causal evidence supporting this claim. These results have implications for our broader understanding of how political institutions affect financial imbalances and economic inequality.
-
-+ [Online Appendix]({{ site.url }}/assets/Redeker_JOP_Appendix.pdf); [Replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F9H3DFP)
-+ Media coverage:  [Washington Post](https://www.washingtonpost.com/opinions/2019/05/31/what-marco-rubio-gets-right-wrong-about-decline-american-investment/); [Frankfurter Rundschau](https://www.fr.de/politik/konjunktur-aktionaere-profitieren-arbeitnehmer-verlieren-12233915.html) 
+The Solvency Support Instrument (SSI) is central to the European Commission’s proposal to mitigate economic damage of the pandemic. The new tool would use part of the money raised under the Recovery Instrument to provide equity support to struggling firms. It could become a powerful tool for the recovery. However, Nils Redeker and Theresa Küspert argue in their Policy Paper that the instrument, in its current form, risks providing free lunch bailouts for owners and private investors without ensuring that public support secures jobs, avoids market concentration, and puts firms on a growth path more conducive with the EU’s broader industrial policy goals. To remedy these shortcomings, the instrument needs clear political criteria for equity support; it should be linked to binding social and environmental conditions; public banks should be put in the lead of its rollout and political control of the instruments needs to be improved.  
 
 <br>
 
-**Misremembering Weimar - Hyperinflation, the Great Depression, and German Collective Economic Memory** (with Lukas Haffert & Tobias Rommel, *Economics & Politics*, 00:1–23, 2021) [ [ ungated PDF ]](https://onlinelibrary.wiley.com/doi/full/10.1111/ecpo.12182?casa_token=mjQH-dZT5t8AAAAA%3A2ZeiDYJUINNfVpo4qWp5_L5DOagWQMGLRWU5ClLOI_VtX1RO4YTbcc5tODUf0Lux5jN3XVRtzCSrlik1)
+**Flattening the Recession Curve: Fiscal Responses to the Corona Crisis** (with Natascha Hainbach, *Jacques Delors Centre Policy Paper*, April 2020) [[ Link ]](https://www.delorscentre.eu/en/publications/detail/publication/flattening-the-recession-curve-fiscal-responses-to-the-corona-crisis)
 
-The economic worldview of German elites and the German public is often described as being shaped by the trauma of Weimar era hyperinflation. This raises the question why this hyperinflation episode plays such an outsized role in the German economic imagination. We argue that this is because many Germans do not distinguish between hyperinflation and the Great Depression but see them as two dimensions of the same crisis. They conceive of Weimar economic history as being characterized by one big crisis, encompassing both rapidly rising prices and mass unemployment. Using original survey data, we demonstrate that about half of all Germans think of the Great Depression as a period of high inflation, whereas less than 5% know that it was in fact a period of deflation. More educated and politically interested Germans are more likely to commit this fallacy. This confusion is unique to Germany, as a comparison with a Dutch survey shows.
-
-+ [Data and repliaction material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fecpo.12182&file=ecpo12182-sup-0002-supinfo.zip)
-+ Media coverage:  [Die Zeit](https://www.zeit.de/wirtschaft/2019-10/konjunktur-geschichte-inflation-ezb-angst#comments); [Bloomberg](https://bloom.bg/329ZYcQ) 
-<br>
-
-**We'd Rather Pay Than Change - The Politics of German Non-Adjustment in the Eurocrisis** (with Stefanie Walter, *Review of International Organizations*, 15:573–599, 2020)  [ [ Ungated PDF ]](https://link.springer.com/article/10.1007/s11558-020-09390-1)
-
-Germany’s large current account surplus has been widely criticized, especially against the backdrop of the role of macroeconomic imbalances in the Eurozone crisis. We argue that Germany’s resistance to reduce its massive current account surplus through an expansionary policy at home is rooted in distributive struggles about the design of possible adjustment policies. To explore this argument, we leverage original survey data from 135 German economic interest groups, qualitative interviews with interest group representatives and policymakers, and data from public opinion surveys. We show that while there is general support for internal adjustment among German interest groups, they disagree heavily about which specific policies should be implemented to achieve this goal. Together with a broad public and elite-based consensus to avoid a break-up of the Eurozone, this polarization turns financing into a politically attractive strategy. Rather than being rooted only in German ordoliberal ideas or Germany’s export-oriented structure, distributive conflicts contribute significantly to Germany’s resistance to reduce its large current-account surplus. Because similar dynamics can be observed in other surplus countries, we argue that distributive struggles within surplus countries played an important role interstate conflicts about the management of the crisis.
-
-+ [Data and replication material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11558-020-09390-1/MediaObjects/11558_2020_9390_MOESM1_ESM.zip)
+The ongoing Covid-19 crisis affects all European economies, however the crisis causes much more economic damage in some member states than in others. A joint European policy response to share the fiscal burden of this crisis is, therefore, urgently needed. This Policy Paper by Dr. Nils Redeker analyses to what extent these costs are likely to differ across member states and how governments are trying to mitigate them. This initial analysis suggests two important takeaways that need to be considered. First, economic vulnerabilities differ substantially across member states. Second, initial fiscal crisis responses, so far, do not seem to match the distribution of economic risks. Nevertheless, crisis measures need to converge swiftly or else risk aggravating economic disparities across member states as well as seriously harming the European recovery. 
 
 <br>
 
-<font size="+1">
-<span style="color:#2a7ae2"> Ongoing Work  </span> </font> <br>
+**Unlocking Europe’s Piggy Bank: Corporate Saving, Labor Power and Policies for Investment** (*Jacques Delors Centre Policy Paper*, December 2019) [[ Link ]](https://www.delorscentre.eu/en/publications/detail/publication/go-big-or-go-home-how-to-make-european-industrial-policy-work)
 
-**Trade, Labor Market Institutions and the Decline of Labor Shares**  [ [ PDF ]]({{ site.url }}/assets/Redeker_WaivingWages.pdf)
+European companies invest too little. Instead, firms increasingly retain profits and build up large savings which contributes to low growth, rising inequality and financial instability. Boosting private investment, therefore, has become main priority for the new Commission. Based on new empirical evidence this policy paper by Nils Redeker proposes a novel strategy to achieve this goal: strengthening the bargaining position of labor.
 
-​​​​**Helping the Left Behind? Place-Based Policies and Regional Inequality** (with Valentin Lang and Daniel Bischof )
-+ work in progress, ​draft available on request​
+<br>
 
-**The Political Effects of Local Economic Investment Policies: Evidence from a Natural Experiment** (with Daniel Bischof, Guido Ropers & Moritz Marbach).
-+ work in progress, ​draft available on request​
+**Misremembering Weimar: Unpacking the Historic Roots of Germany’s Monetary Policy Discourse** (with Lukas Haffert and Tobias Rommel, *Jacques Delors Centre Policy Paper*, November 2019) [[ Link ]](https://www.delorscentre.eu/en/publications/detail/publication/historic-roots-of-germanys-monetary-policy-discourse)
+
+Many Germans are highly sceptical of the ECB’s monetary policy of recent years. To explain this scepticism, experts often point to the collective memory of the hyperinflation in the early 1920s. Based on new survey data, our policy paper shows that German memory of this period in fact is deeply flawed. Many Germans, therefore, today draw the wrong lessons from history.
+
+<br>
+
 
 
 [jekyll-organization]: https://github.com/jekyll
