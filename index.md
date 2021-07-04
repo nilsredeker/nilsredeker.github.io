@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="assets/twitter2.jpeg" alt="Kitten"
+<img src="assets/Nils_WP" alt="Kitten"
 	title="" width="40%" height="40%"  
 	style="float: left; padding-right: 50px;"/>
 
