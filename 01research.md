@@ -5,9 +5,11 @@ permalink: /research/
 order: 1
 ---
 <font size="+1">
-<span style="color:#2a7ae2"> Publications  </span> </font> 
+<span style="color:#2a7ae2"> Publications  </span> </font> <br>
 
 <br>
+![image](assets/9780198857013.jpg){: style="float: left"}
+
 <img src="assets/9780198857013.jpg" alt="Test3"
 	title="" width="40%" height="40%"  
 	style="float: left; padding-right: 50px;"/>
