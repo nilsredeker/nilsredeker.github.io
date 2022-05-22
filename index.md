@@ -13,7 +13,7 @@ layout: home
 
 
 ### Welcome!
-I am the Deputy Director of the [Jacques Delors Centre Berlin](https://www.delorscentre.eu) where I lead our think tank work on European economic policy. 
+I am a Deputy Director at the [Jacques Delors Centre Berlin](https://www.delorscentre.eu) where I lead our think tank work on European economic policy. 
 
 Previously, I obtained my PhD in International Relations and Political Economy from the [University of Zurich](https://www.ipz.uzh.ch) and was as a visiting fellow at the [Weatherhead Center for Internationa Affairs](https://wcfia.harvard.edu) at Harvard University. I hold degrees in International Political Economy from the [London School of Economics](http://www.lse.ac.uk) and in Political Science and Economics from the [Free University of Berlin](https://www.polsoz.fu-berlin.de/en/polwiss/index.html).
 
