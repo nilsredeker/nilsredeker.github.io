@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="assets/Nils_WP.png" alt="Kitten"
+<img src="assets/Nils_WP.jpg" alt="profile"
 	title="" width="40%" height="40%"  
 	style="float: left; padding-right: 50px;"/>
 
